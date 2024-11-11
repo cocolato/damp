@@ -1,0 +1,5 @@
+name "damp"
+description "d to python compiler"
+authors "cocolato"
+copyright "Copyright © 2024, cocolato"
+license "MIT"

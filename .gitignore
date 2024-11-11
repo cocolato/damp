@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/damp
+damp.so
+damp.dylib
+damp.dll
+damp.a
+damp.lib
+damp-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
